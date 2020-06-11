@@ -1,6 +1,5 @@
-# Fail gradle
-ça marche pas :-\
+# GRADLE MARCHE
+CA MARCHE DE OUF
 
 ### Il faut
-- que ça compile
-- que les tests passent
+RIEN PARCE QUE CA MARCHE PUTAIN
